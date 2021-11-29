@@ -1,5 +1,5 @@
 # ForkPlayground
-A library to implement the Process Forking attack described in this blog post. 
+A library to implement the Process Forking attack described in this [blog post](https://billdemirkapi.me/abusing-windows-implementation-of-fork-for-stealthy-memory-operations/). 
 
 **ForkLib** - C++ library that implements the Process Forking attack.
 
